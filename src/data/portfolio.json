@@ -1,0 +1,148 @@
+{
+  "profile": {
+    "name": "Siva Bhargav Korrapati",
+    "shortName": "Bhargav",
+    "tagline": "I build backend systems and AI-powered workflows that hold up in production.",
+    "role": "Software Engineer, AI/LLM-Integrated Systems",
+    "specialization": "Backend Architecture · RAG & LLM Integration · Cloud Infrastructure",
+    "location": "USA",
+    "yearsOfExperience": "4+",
+    "bio": "Software Engineer with 4+ years designing scalable backend systems for banking, fintech, and healthcare applications. I work across Python and Node.js microservices, REST and GraphQL APIs, and cloud-native infrastructure, with hands-on experience wiring Retrieval-Augmented Generation and AI workflows into enterprise products. I care most about reliability: software that keeps working once real traffic hits it.",
+    "avatarSvg": "/src/assets/img/avatar.png",
+    "social": {
+      "github": "https://github.com/Kosibh",
+      "instagram": "",
+      "linkedin": "https://www.linkedin.com/in/sivabhargavkorrapati",
+      "email": "bhargavk2720@gmail.com",
+      "phone": "+1 (361) 271-2841",
+      "website": ""
+    }
+  },
+  "skills": {
+    "categories": [
+      {
+        "name": "Languages",
+        "items": ["Python", "JavaScript (ES6+)", "TypeScript", "SQL"]
+      },
+      {
+        "name": "Backend",
+        "items": ["FastAPI", "Node.js", "Express.js", "REST APIs", "GraphQL", "gRPC", "Microservices", "Event-Driven Architecture", "Async Processing"]
+      },
+      {
+        "name": "Frontend",
+        "items": ["React.js", "Next.js", "HTML5", "CSS3", "Tailwind CSS"]
+      },
+      {
+        "name": "Generative AI & Retrieval",
+        "items": ["LangChain", "OpenAI API", "RAG", "FAISS", "Vector Search", "Embedding Generation", "Prompt Engineering"]
+      },
+      {
+        "name": "Data & Caching",
+        "items": ["PostgreSQL", "MySQL", "MongoDB", "Redis", "Query Optimization"]
+      },
+      {
+        "name": "Cloud & DevOps",
+        "items": ["AWS (Lambda, API Gateway, S3, IAM)", "Docker", "Kubernetes", "GitHub Actions", "CI/CD"]
+      },
+      {
+        "name": "Security",
+        "items": ["OAuth 2.0", "JWT", "RBAC", "API Security"]
+      }
+    ]
+  },
+  "experience": [
+    {
+      "company": "Ally Financial",
+      "role": "Software Engineer",
+      "period": "Jan 2025 — Present",
+      "location": "USA",
+      "summary": "Building the backend for financial workflows: transaction processing, loan servicing, and account data at scale.",
+      "highlights": [
+        "Architected 12+ backend microservices in FastAPI and PostgreSQL, using query optimization and async request processing to improve API performance across financial workflows.",
+        "Designed secure, reusable REST APIs for high-volume transaction processing with validation, retry mechanisms, and centralized error handling.",
+        "Orchestrated event-driven integrations using message queues to synchronize loan servicing and payment workflows, cutting processing delays during peak periods.",
+        "Implemented Redis caching for frequently accessed account data, reducing database load and improving dashboard responsiveness.",
+        "Automated CI/CD pipelines with GitHub Actions and Docker, cutting deployment time from 40 minutes to under 12."
+      ]
+    },
+    {
+      "company": "CELEIX Digital",
+      "role": "Software Engineer",
+      "period": "Jan 2024 — Dec 2024",
+      "location": "Remote",
+      "summary": "Built the backend for WeKare360, orchestrating AI transcription, summarization, and consultation workflows for healthcare.",
+      "highlights": [
+        "Engineered backend services in Node.js and Express.js to orchestrate AI-powered transcription, summarization, and consultation workflows.",
+        "Integrated AI summarization pipelines with MongoDB-backed storage, designing flexible schemas for structured and unstructured consultation data.",
+        "Designed REST and GraphQL APIs enabling semantic retrieval over consultation transcripts and AI-generated summaries.",
+        "Built workflows converting AI-extracted action items into reminders and scheduling events.",
+        "Developed permission-based APIs for sharing consultation recordings between patients and care teams, enforcing application-level access controls."
+      ]
+    },
+    {
+      "company": "HDFC",
+      "role": "Software Engineer",
+      "period": "Jan 2021 — Jul 2023",
+      "location": "India",
+      "summary": "Modernized retail banking backend systems, from onboarding workflows to legacy microservices migration.",
+      "highlights": [
+        "Developed backend modules in Python and PostgreSQL for retail banking applications, enabling onboarding and account servicing at scale.",
+        "Standardized reusable REST APIs across internal banking applications, cutting duplicate development effort by 35%.",
+        "Optimized SQL queries, stored procedures, and indexing, cutting report generation time by 48%.",
+        "Implemented JWT-based authentication and role-based access controls to meet internal compliance requirements.",
+        "Modernized legacy backend services into a microservices architecture, improving release flexibility by 28%."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "ai-enterprise-knowledge-assistant",
+      "title": "AI-Powered Enterprise Knowledge Assistant",
+      "subtitle": "RAG-based document Q&A for enterprise knowledge",
+      "description": "A Retrieval-Augmented Generation application enabling semantic search and conversational question answering over enterprise documents, with an end-to-end pipeline from chunking to grounded LLM responses.",
+      "stack": ["Python", "FastAPI", "LangChain", "OpenAI API", "PostgreSQL", "Redis", "React.js", "Docker"],
+      "role": "Solo Developer",
+      "year": "2024",
+      "link": "",
+      "image": "",
+      "highlight": true
+    }
+  ],
+  "education": [
+    {
+      "institution": "Texas A&M University – Corpus Christi",
+      "degree": "Master's in Computer Science",
+      "period": "Aug 2023 — Dec 2024",
+      "location": "USA"
+    },
+    {
+      "institution": "National Institute of Technology (NIT), Patna",
+      "degree": "Bachelor's in Electronics & Communication Engineering",
+      "period": "Jul 2018 — May 2022",
+      "location": "India"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "t1",
+      "quote": "Bhargav shipped our transaction pipeline rework and cut deployment times to a third of what they were, without a single rollback.",
+      "name": "Placeholder Name",
+      "role": "Engineering Manager, Placeholder Co.",
+      "avatarColour": "#8B5CF6"
+    },
+    {
+      "id": "t2",
+      "quote": "He's the person you want owning a backend that can't go down. Calm under pressure, thorough with root cause analysis.",
+      "name": "Placeholder Name",
+      "role": "Senior Engineer, Placeholder Co.",
+      "avatarColour": "#D946EF"
+    },
+    {
+      "id": "t3",
+      "quote": "Turned a vague RAG idea into a working retrieval pipeline in a couple of weeks, and it actually held up in production.",
+      "name": "Placeholder Name",
+      "role": "Product Lead, Placeholder Co.",
+      "avatarColour": "#F97316"
+    }
+  ]
+}
