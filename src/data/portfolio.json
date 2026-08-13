@@ -8,7 +8,7 @@
     "location": "USA",
     "yearsOfExperience": "4+",
     "bio": "Software Engineer with 4+ years designing scalable backend systems for banking, fintech, and healthcare applications. I work across Python and Node.js microservices, REST and GraphQL APIs, and cloud-native infrastructure, with hands-on experience wiring Retrieval-Augmented Generation and AI workflows into enterprise products. I care most about reliability: software that keeps working once real traffic hits it.",
-    "avatarSvg": "/src/assets/img/avatar.png",
+    "avatarSvg": "/avatar.png",
     "social": {
       "github": "https://github.com/Kosibh",
       "instagram": "",
