@@ -1,19 +1,19 @@
 {
   "profile": {
     "name": "Siva Bhargav Korrapati",
-    "shortName": "Bhargav",
-    "tagline": "I build backend systems and AI-powered workflows that hold up in production.",
+    "shortName": "Siva Bhargav",
+    "tagline": "I build backend systems and study what makes AI systems reliable in production.",
     "role": "Software Engineer, AI/LLM-Integrated Systems",
     "specialization": "Backend Architecture · RAG & LLM Integration · Cloud Infrastructure",
     "location": "USA",
     "yearsOfExperience": "4+",
-    "bio": "Software Engineer with 4+ years designing scalable backend systems for banking, fintech, and healthcare applications. I work across Python and Node.js microservices, REST and GraphQL APIs, and cloud-native infrastructure, with hands-on experience wiring Retrieval-Augmented Generation and AI workflows into enterprise products. I care most about reliability: software that keeps working once real traffic hits it.",
+    "bio": "Software Engineer with 4+ years building scalable backend systems across banking, fintech, and healthcare, specializing in Python, FastAPI, and event-driven distributed architectures. I bring applied AI experience through RAG and LLM-powered workflows in production healthcare systems, plus graduate research into LLM reliability, prompting, retrieval, and lightweight model adaptation. I care about building production-grade systems that hold up — backend engineering paired with AI that actually works."
     "avatarSvg": "/avatar.png",
     "social": {
       "github": "https://github.com/Kosibh",
       "instagram": "",
       "linkedin": "https://www.linkedin.com/in/sivabhargavkorrapati",
-      "email": "bhargavk2720@gmail.com",
+      "email": "ksivabhargav20@gmail.com",
       "phone": "+1 (361) 271-2841",
       "website": ""
     }
@@ -33,8 +33,8 @@
         "items": ["React.js", "Next.js", "HTML5", "CSS3", "Tailwind CSS"]
       },
       {
-        "name": "Generative AI & Retrieval",
-        "items": ["LangChain", "OpenAI API", "RAG", "FAISS", "Vector Search", "Embedding Generation", "Prompt Engineering"]
+        "name": "AI & LLM",
+        "items": ["LangChain", "OpenAI API", "RAG", "FAISS", "Vector Search", "EmbeddingS", "Prompt Engineering", "LoRA / QLoRA / PEFT", "RLHF / DPO"]
       },
       {
         "name": "Data & Caching",
@@ -80,7 +80,21 @@
       ]
     },
     {
-      "company": "HDFC",
+      "company": "Texas A&M University",
+      "role": "Graduate Researcher — LLMs",
+      "period": "Aug 2023 — Aug 2024",
+      "location": "USA",
+      "summary": "Researched LLM reliability, retrieval-augmented generation, and lightweight model adaptation, translating findings into practical trade-off guidance.",
+      "highlights": [
+        "Investigated reliability challenges across proprietary and open-weight LLMs through zero-shot, few-shot, and instruction-based prompting experiments, identifying prompt sensitivity and unsupported responses.",
+        "Extended the research into Retrieval-Augmented Generation, building a document chunking, embedding, and vector-based semantic retrieval pipeline to ground LLM responses in external source material.",
+        "Explored lightweight adaptation approaches using LoRA, QLoRA, and PEFT, and studied RLHF/DPO to determine when model adaptation was preferable to prompting or retrieval.",
+        "Built Python-based evaluation workflows comparing LLM outputs on relevance, factual consistency, hallucination patterns, latency, and inference cost.",
+        "Extended the work toward multimodal and tool-enabled LLM systems, examining function calling and early agentic workflows, summarized into technical reports."
+      ]
+    },
+    {
+      "company": "HDFC Bank",
       "role": "Software Engineer",
       "period": "Jan 2021 — Jul 2023",
       "location": "India",
@@ -89,7 +103,6 @@
         "Developed backend modules in Python and PostgreSQL for retail banking applications, enabling onboarding and account servicing at scale.",
         "Standardized reusable REST APIs across internal banking applications, cutting duplicate development effort by 35%.",
         "Optimized SQL queries, stored procedures, and indexing, cutting report generation time by 48%.",
-        "Implemented JWT-based authentication and role-based access controls to meet internal compliance requirements.",
         "Modernized legacy backend services into a microservices architecture, improving release flexibility by 28%."
       ]
     }
