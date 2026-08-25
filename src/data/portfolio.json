@@ -139,22 +139,22 @@
     {
       "id": "t1",
       "quote": "Bhargav shipped our transaction pipeline rework and cut deployment times to a third of what they were, without a single rollback.",
-      "name": "Placeholder Name",
-      "role": "Engineering Manager, Placeholder Co.",
+      "name": "Sridhar A",
+      "role": "CEO Of Celeix Digital",
       "avatarColour": "#8B5CF6"
     },
     {
       "id": "t2",
       "quote": "He's the person you want owning a backend that can't go down. Calm under pressure, thorough with root cause analysis.",
-      "name": "Placeholder Name",
-      "role": "Senior Engineer, Placeholder Co.",
+      "name": "Ashutosh Kumar",
+      "role": "Senior Engineer",
       "avatarColour": "#D946EF"
     },
     {
       "id": "t3",
       "quote": "Turned a vague RAG idea into a working retrieval pipeline in a couple of weeks, and it actually held up in production.",
-      "name": "Placeholder Name",
-      "role": "Product Lead, Placeholder Co.",
+      "name": "Vishakan Umapathy",
+      "role": "AI Native Engineer",
       "avatarColour": "#F97316"
     }
   ]
